@@ -1,2 +1,4 @@
-# Diont-for-Java
-Easy Service Discovery on Local Networks from Java or Android
+# Diont-for-Android
+Easy Service Discovery on Local Networks Android
+
+Currently only implements listening and not advertising. Not because of technical limitation but because I don't need it.
